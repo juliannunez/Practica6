@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Copacabana</string>
+    <string name="abierto">Open</string>
+    <string name="cerrado">Close</string>
+    <string name="propietariobar1">Owner: Giovanni Acevedo</string>
+    <string name="dirbar1">Address: Crra.49 #51-29</string>
+    <string name="telbar1">Phone: 274 2403</string>
+    <string name="ver">Watch the map</string>
+    <string name="propietariobar2">Owner: Jaian Asociados</string>
+    <string name="dirbar2">Address: El Noral lane</string>
+    <string name="telbar2">Phone: 401 34 33</string>
+    <string name="propietariobar3">Owner: Esteban Duque</string>
+    <string name="dirbar3">Address: El Noral lane</string>
+    <string name="telbar3">Phone: 320 686 5018</string>
+    <string name="preciohotel1">Room: 15.000 per night</string>
+    <string name="telhotel1">Phone: 401 4918</string>
+    <string name="dirhotel1">Address: Crra. 52 #50-80</string>
+    <string name="preciohotel2">Weekend: 500.000 pesos</string>
+    <string name="telhotel2">Phone: 401 4918</string>
+    <string name="dirhotel2">Address: Crra. 52 #50-80</string>
+    <string name="preciohotel3">Weekend: 550.000 pesos</string>
+    <string name="telhotel3">Phone: 401 4918</string>
+    <string name="dirhotel3">Address: Crra. 52 #50-80</string>
+    <string name="infotur1">Saint Cross monument\Copacabana is called by outsiders as \"the little crossed town\". Besides, the mount which is located this cross, is used as mountain bike\'s runway. The sanctuary is sited in the Cabuyal path.</string>
+    <string name="ubitur1">Location: El Cabuyal lane</string>
+    <string name="infotur2"> Saint John of the Tasajera church\It\'s located at 2km from the main part of the city, in Saint John\'s neighborhood. The church is recognized by it\'s beautiful and paceful architecture. It was builded in the 60\'s in the very same place where the first catholic mass was given in the Aburra\'s valley, in September of 1541.</string>
+    <string name="ubitur2">Location: San Juan neighborhood</string>
+    <string name="infotur3">The whales recreative park \It\'s located at 3Km from the main part of the city, over the north freeway. It has 16 hectares of green zones with paths and offers a great variety of attractions and services to the whole family, such as: pools, slides, soccer, tennis and basketball fields, restaurants and groceries stores.</string>
+    <string name="ubitur3">Location: North highway, 3 km from the main part of the city</string>
+    <string name="infodemografica"> Information:\n\nThe town of Copacabana is sited at north from Medellin city, in the Aburra\'s valley, one of the nine regions which is divided the Antioquia state.\nAt north, Copacabana limits with San Pedro Town, at east with Girardota town, at west with Bello town and finally, at south limits with Medellin and Guarne.\nIt has 66 thousand people (Data taken from DANE on June 30 of 2011), which make Copacabana the 6th main agglomeration in the Aburra\'s valley.\nIt\'s main economical activity are: Industrial activity, confections, and farming.</string>
+    <string name="parrafo1">Copacabana is a town which is located at north of Aburra\'s valley, at 14Km from Medellin, the main city of Antioquia. You can reach Copacabana from Medellin taking the north freeway or the via Machado. Both ways are in perfect state and completely paved.\n Coonatra is the bus line which offers transport inside and outside this town. The buses, in Medellin, set off from Prado Station, but also, it is possible to take the Metro integrated System in Niquia Station.</string>
+
+
+</resources>

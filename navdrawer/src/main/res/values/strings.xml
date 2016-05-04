@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Copacabana</string>
+    <string name="abierto">Abierto</string>
+    <string name="cerrado">Cerrado</string>
+    <string name="propietariobar1">Propietario: Giovanni Acevedo</string>
+    <string name="dirbar1">Dirección: Crra.49 #51-29</string>
+    <string name="telbar1">Teléfono: 274 2403</string>
+    <string name="ver">Ver en mapa</string>
+    <string name="propietariobar2">Propietario: Jaian Asociados</string>
+    <string name="dirbar2">Dirección: Vereda el Noral</string>
+    <string name="telbar2">Teléfono: 401 34 33</string>
+    <string name="propietariobar3">Propietario: Esteban Duque</string>
+    <string name="dirbar3">Dirección: Vereda el Noral</string>
+    <string name="telbar3">Teléfono: 320 686 5018</string>
+    <string name="preciohotel1">Habitación: 15.000 pesos la noche</string>
+    <string name="telhotel1">Teléfono: 401 4918</string>
+    <string name="dirhotel1">Dirección: Crra. 52 #50-80</string>
+    <string name="preciohotel2">Fin de semana: 500.000 pesos</string>
+    <string name="telhotel2">Teléfono: 401 4918</string>
+    <string name="dirhotel2">Dirección: Crra. 52 #50-80</string>
+    <string name="preciohotel3">Fin de semana: 550.000 pesos</string>
+    <string name="telhotel3">Teléfono: 401 4918</string>
+    <string name="dirhotel3">Dirección: Crra. 52 #50-80</string>
+    <string name="infotur1">Copacabana es llamado por los viajeros como el pueblito de la cruz. El cerro donde está ubicado este monumento es utilizado como pista de montañismo</string>
+    <string name="ubitur1">Ubicación: Vereda El Cabuyal</string>
+    <string name="infotur2">La iglesia San Juan de la tasajera se destaca por su bella y sobria arquitectura. Fue construída en la década de los 60 en el mismo lugar donde se ofició la primera misa católica en el valle del Aburrá.</string>
+    <string name="ubitur2">Ubicación: Barrio San Juan</string>
+    <string name="infotur3">El parque recreativo las ballenitas tiene 16 hectáreas de zonas verdes con senderos y ofrece una gran variedad de atracciones y servicios para toda la familia </string>
+    <string name="ubitur3">Ubicación: Autopista norte a 3 km de la cabecera municipal</string>
+    <string name="infodemografica">Información:\n\nEl Municipio de Copacabana está situado al norte de la ciudad de Medellín, en el Valle de Aburrá, una de las nueve regiones en las que se divide cultural y geográficamente el Departamento de Antioquia.\nLimita al Norte con el municipio de San Pedro, al Oriente con el municipio de Girardota, al Occidente con el municipio de Bello y al Sur con los municipios de Guarne y Medellín.\nTiene una población de 66.665 mil habitantes (Datos del DANE a Junio 30 de 2011), siendo ésta, la sexta aglomeración urbana del Área Metropolitana del Valle de Aburrá que suma un total de 3\'312.165 personas aproximadamente.\nSus principales actividades económicas son: la actividad industrial, las confecciones, la economía informal y la agricultura (principalmente el cultivo de cebolla junca, la naranja y el fique).</string>
+    <string name="parrafo1">Copacabana es un municipio ubicado al Norte del Valle de Aburrá, a 14 kilómetros de Medellín, capital del Departamento de Antioquia. Desde Medellín se puede llegar a Copacabana por la Autopista Norte en Doble Calzada (Troncal de Occidente) y por la vía a Machado. Ambas vías estan totalmente pavimentadas y en perfecto estado.\n Coonatra es la empresa que presta el servicio de transporte público urbano y intermunicipal. Los buses y colectivos hacia Copacabana salen de la estación Prado del Metro de Medellín. También es posible viajar a través del Sistema Integrado Metrosit con trasbordo desde la estación Niquía (Bello).</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
